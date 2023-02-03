@@ -1,0 +1,24 @@
+.interaction-container {
+    font-size: var(--font-size--small);
+    display: flex;
+    align-items: center;
+    padding-top: var(--spacing);
+    border-top: 1px solid lightgrey;
+}
+
+.interaction-like {
+    display: flex;
+    align-items: center;
+    margin-right: var(--spacing);
+}
+
+.interaction-view {
+    display: flex;
+    align-items: center;
+}
+
+.material-symbols-outlined {
+    font-size: var(--font-size);
+    line-height: var(--font-line-height);
+    margin-right: calc(var(--spacing) / 2);
+}

@@ -1,0 +1,5 @@
+.comment-title {
+  font-weight: bold;
+  font-size: var(--headline-size--small);
+  line-height: var(--headline-line-height--small);
+}

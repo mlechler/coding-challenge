@@ -1,0 +1,18 @@
+.author {
+  display: flex;
+  align-items: center;
+  padding: var(--spacing) 0;
+}
+
+.author-name-container {
+  margin-left: calc(var(--spacing) / 2);
+}
+
+.author-name {
+  font-weight: 500;
+}
+
+.creation-date {
+  color: grey;
+  font-size: var(--font-size--small);
+}
